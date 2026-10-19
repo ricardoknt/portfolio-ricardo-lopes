@@ -7,3 +7,4 @@
 .project,.next-project{width:100%;min-width:0;min-height:0}.preview{min-height:0}.project{aspect-ratio:1}.next-project{aspect-ratio:1}@media(max-width:400px){.project{aspect-ratio:auto;min-height:350px}.preview{min-height:130px}.next-project{aspect-ratio:auto;min-height:310px}}
 @media(max-width:720px){h1{font-size:clamp(40px,11.5vw,63px);letter-spacing:-2.5px}.hero-star{font-size:38px;margin-left:20px}.hero-art{height:280px}}
 .hero-main{padding-top:48px}.hero-bottom{justify-content:flex-end}.footer-name{margin-right:auto}@media(max-width:720px){.hero-main{padding-top:30px}}
+.language-icon{background:#c2f9700d;border-color:#6b824b}.language-icon svg{display:block}
