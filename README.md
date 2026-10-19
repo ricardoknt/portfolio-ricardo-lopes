@@ -1,6 +1,6 @@
 # Portfólio de Ricardo Lopes
 
-Portfólio estático de Ricardo Lopes, estudante de Desenvolvimento de Sistemas no IFB. Os cinco projetos, suas prévias e seus resumos estão em `dist/`.
+Portfólio estático de Ricardo Lopes, estudante de Desenvolvimento de Sistemas no IFB. Os seis projetos, suas prévias e seus resumos estão em `dist/`. O Radar Editorial tem uma página de demonstração independente em `dist/radar-editorial.html`, com conteúdo fictício e sem integração com o painel original.
 
 ## GitHub Pages
 
