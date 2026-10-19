@@ -8,4 +8,4 @@
 @media(max-width:720px){h1{font-size:clamp(40px,11.5vw,63px);letter-spacing:-2.5px}.hero-star{font-size:38px;margin-left:20px}.hero-art{height:280px}}
 .hero-main{padding-top:48px}.hero-bottom{justify-content:flex-end}.footer-name{margin-right:auto}@media(max-width:720px){.hero-main{padding-top:30px}}
 .language-icon{background:#c2f9700d;border-color:#6b824b}.language-icon svg{display:block}
-.systems-icon{background:#c2f9700d;border-color:#6b824b}.systems-icon img{display:block;width:34px;height:34px;object-fit:contain}
+
